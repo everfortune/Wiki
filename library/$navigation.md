@@ -9,8 +9,8 @@
     - [README](?file=001-工业设计/003-Solidworks/001-README "README")
 - **逆向**
     - [README](?file=001-工业设计/004-逆向/001-README "README")
-- **浮雕**
-    - [README](?file=001-工业设计/005-浮雕/001-README "README")
+- **工程图**
+    - [README](?file=001-工业设计/005-工程图/001-README "README")
 - **keyshot**
     - [README](?file=001-工业设计/006-keyshot/001-README "README")
 
