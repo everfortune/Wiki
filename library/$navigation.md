@@ -17,7 +17,8 @@
 
 ##### ESL English
 - **笔记**
-    - [README](?file=002-ESL English/01-笔记/001-README "README")
+    - [100短句](?file=002-ESL English/01-笔记/001-100短句 "100短句")
+    - [老友记](?file=002-ESL English/01-笔记/002-老友记 "老友记")
 - **阅读**
     - [README](?file=002-ESL English/02-阅读/001-README "README")
 - **单词**
