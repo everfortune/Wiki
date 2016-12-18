@@ -4,6 +4,7 @@
 ##### 工业设计
 - **UGnx**
     - [图层应用技巧](?file=001-工业设计/01-UGnx/001-图层应用技巧 "图层应用技巧")
+    - [曲线方程式](?file=001-工业设计/01-UGnx/002-曲线方程式 "曲线方程式")
 - **Geomagic**
     - [README](?file=001-工业设计/02-Geomagic/001-README "README")
 - **Solidworks**
