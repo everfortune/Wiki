@@ -26,7 +26,7 @@
 
 ##### LIFHACKER
 - **摄影**
-    - [README](?file=003-LIFHACKER/01-摄影/001-README "README")
+    - [人像布光](?file=003-LIFHACKER/01-摄影/001-人像布光 "人像布光")
 - **旅行**
     - [README](?file=003-LIFHACKER/02-旅行/001-README "README")
 - **美食**
